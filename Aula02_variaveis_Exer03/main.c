@@ -1,3 +1,7 @@
+/*
+*Leia um Numero e Imprima o resultado do quadrado deste miero
+*/
+
 #include <stdio.h>
 
 int main()
